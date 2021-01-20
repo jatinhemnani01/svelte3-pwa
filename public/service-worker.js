@@ -4,7 +4,7 @@
 const CACHE_NAME = "static-cache-v1";
 
 // Add list of files to cache here.
-const FILES_TO_CACHE = ["/offline.html"];
+const FILES_TO_CACHE = ["/build/bundle.js", "/build/bundle.css"];
 
 self.addEventListener("install", (evt) => {
   // console.log('[ServiceWorker] Install');
