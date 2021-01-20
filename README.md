@@ -1,5 +1,5 @@
 ---
-
+# Svelte PWA Template To Make Your Svelte App Installable As PWA
 # Svelte PWA
 
 This is a Progressive Web App (PWA) template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/tretapey/svelte-pwa.
