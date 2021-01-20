@@ -2,12 +2,15 @@
 # Svelte PWA Template To Make Your Svelte App Installable As PWA
 # Svelte PWA
 
+Original Credits To https://github.com/tretapey/svelte-pwa 
+Removed The Errors from the above code.
+
 This is a Progressive Web App (PWA) template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/tretapey/svelte-pwa.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit tretapey/svelte-pwa my-svelte-pwa
+npx degit jatinhemnani01/svelte3-pwa-template my-svelte-pwa
 cd my-svelte-pwa
 ```
 
